@@ -91,7 +91,7 @@ Setting up project for local usage.
     ```shell
     https://github.com/Hapsarip/api-crud-kelompok4.git
     ```
-    if using SSS
+    if using SSH
     ```shell
     git@github.com:Hapsarip/api-crud-kelompok4.git
     ```
